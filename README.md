@@ -1,5 +1,4 @@
-## This is a respatorie that will store my eaglercraft files
-
+Hola (:
 <!--
 **Durdaking/Durdaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
